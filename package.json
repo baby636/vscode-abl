@@ -317,7 +317,7 @@
         "rimraf": "^3.0.1",
         "util.promisify": "^1.0.1",
         "vscode-debug-logger": "^0.0.5",
-        "vscode-debugadapter": "^1.38.0",
+        "vscode-debugadapter": "^1.46.0",
         "vscode-debugprotocol": "^1.38.0",
         "xml2js": "^0.4.23"
     },
