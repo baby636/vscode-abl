@@ -311,10 +311,10 @@
     },
     "dependencies": {
         "abl-tmlanguage": "git+https://github.com/chriscamicas/abl-tmlanguage.git",
-        "glob": "^7.1.6",
+        "glob": "^9.0.0",
         "jsonminify": "^0.4.1",
         "minimatch": "^3.0.4",
-        "rimraf": "^3.0.1",
+        "rimraf": "^4.3.1",
         "util.promisify": "^1.0.1",
         "vscode-debug-logger": "^0.0.5",
         "vscode-debugadapter": "^1.38.0",
@@ -327,8 +327,8 @@
         "@types/node": "^13.7.0",
         "@types/vscode": "^1.42.0",
         "@typescript-eslint/eslint-plugin": "^2.19.0",
-        "@typescript-eslint/parser": "^2.19.0",
-        "eslint": "^6.8.0",
+        "@typescript-eslint/parser": "^4.0.0",
+        "eslint": "^9.0.0",
         "mocha": "^6.1.4",
         "typescript": "^3.7.5",
         "vscode-test": "^1.3.0"
