@@ -311,7 +311,7 @@
     },
     "dependencies": {
         "abl-tmlanguage": "git+https://github.com/chriscamicas/abl-tmlanguage.git",
-        "glob": "^7.1.6",
+        "glob": "^11.0.3",
         "jsonminify": "^0.4.1",
         "minimatch": "^3.0.4",
         "rimraf": "^3.0.1",
